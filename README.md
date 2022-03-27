@@ -11,5 +11,5 @@
 
 Features to check:
  1. hover over a movie card to get the imdb overview of the movie
- 2. You can also search any moview from the search box provided at top right
- 3. TMDB api waws used for implementation
+ 2. You can also search any movie from the search box provided at top right
+ 3. TMDB api was used for implementation
