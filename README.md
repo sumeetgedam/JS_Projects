@@ -9,8 +9,11 @@
 
 ![MovieInfoApp](./assets/movie_info_landing_page.png)
 
+[3. Mini Calendar](https://sumeetgedam.github.io/JS_Projects/Mini_calendar/)
 
-[3. Static Movie Website](https://sumeetgedam.github.io/JS_Projects/Movie_website/)
+![MiniCalendar](./assets/mini_calendar.PNG)
+
+[4. Static Movie Website](https://sumeetgedam.github.io/JS_Projects/Movie_website/)
   
 ![StaticMovieWebsite](./assets/static_landing_page.png)
   
