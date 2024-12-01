@@ -21,4 +21,7 @@
   
 ![StaticMovieWebsite](./assets/static_landing_page.png)
   
+[6. Coming Soon](https://sumeetgedam.github.io/JS_Projects/Coming_soon/)
 
+
+![ComingSoon](./assets/coming_soon.PNG)
