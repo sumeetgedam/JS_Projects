@@ -1,7 +1,7 @@
 # JS_Projects
 
 
-### [To-Do List App](https://sumeetgedam.github.io/JS_Projects/ToDo_list/)
+### [To-Do List App](https://sumeetgedam.github.io/JS_Projects/Todo_list/)
 
 ![ToDoList](./assets/toDoList_app.PNG)
 
